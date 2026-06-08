@@ -47,10 +47,10 @@ It’s inspired by real-world CRM systems used in enterprise software — making
 
 You can customize this based on your implementation:
 
-* Frontend: React / Next.js
+* Frontend: React
 * State Management: Redux / Zustand / Context API
-* Backend: Node.js / Express / Django
-* Database: PostgreSQL / MongoDB
+* Backend: fastAPI
+* Database: PostgreSQL
 * UI: Tailwind CSS / Material UI
 * Drag & Drop: React Beautiful DnD / DnD Kit
 * Charts: Chart.js / Recharts
